@@ -1,4 +1,5 @@
 import java.util.*;
+//done
 class coprime
 {
 public static void  main(String args[])
